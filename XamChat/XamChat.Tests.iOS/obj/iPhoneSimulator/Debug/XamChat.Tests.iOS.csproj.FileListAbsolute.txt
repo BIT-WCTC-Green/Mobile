@@ -1,2 +1,0 @@
-/Users/mgreen14/Documents/GitHub/mobile_fall_2018/XamChat/XamChat.Tests.iOS/obj/iPhoneSimulator/Debug/XamChat.Tests.iOS.csprojResolveAssemblyReference.cache
-/Users/mgreen14/Documents/GitHub/mobile_fall_2018/XamChat/XamChat.Tests.iOS/obj/iPhoneSimulator/Debug/XamChat.Tests.iOS.csproj.CoreCompileInputs.cache
