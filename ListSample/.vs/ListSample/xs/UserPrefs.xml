@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{01C62311-F69E-4338-BADF-C3A4CE993597}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListSample/TeamList.cs">
+    <Files>
+      <File FileName="ListSample/MainPage.xaml.cs" Line="22" Column="1" />
+      <File FileName="ListSample/MainPage.xaml" Line="26" Column="15" />
+      <File FileName="ListSample/Team.cs" Line="6" Column="43" />
+      <File FileName="ListSample/TeamList.cs" Line="11" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3C4E5420-CF45-4157-B6CB-7978BA9B8F19" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ListSample.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ListSample FirstBuild="True" />
+</Properties>

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{B746C87C-7335-4830-AAE2-ACACE4D69DB5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Targets.Todo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3C4E5420-CF45-4157-B6CB-7978BA9B8F19" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Todo.Android/Resources/values/Strings.xml">
+    <Files>
+      <File FileName="Todo/Data/TodoItemDatabase.cs" Line="1" Column="1" />
+      <File FileName="Todo/Models/TodoItem.cs" Line="1" Column="1" />
+      <File FileName="Todo/Views/TodoItemPage.xaml" Line="15" Column="15" />
+      <File FileName="Todo/Views/TodoItemPageCS.cs" Line="1" Column="1" />
+      <File FileName="Todo/Views/TodoListPageCS.cs" Line="1" Column="1" />
+      <File FileName="Todo.Android/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="Todo.Android/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Todo.Android/Resources/values/colors.xml" Line="1" Column="1" />
+      <File FileName="Todo.Android/Resources/values/Strings.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Targets.Todo.Android AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+</Properties>
